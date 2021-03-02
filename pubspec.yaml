@@ -49,6 +49,10 @@ flutter:
     - images/bladeitself.PNG
     - images/darkness.PNG
     - images/blackcompany.PNG
+    - images/rp2.PNG
+    - images/slime.PNG
+    - images/thestand.PNG
+    - images/billgates.PNG
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
